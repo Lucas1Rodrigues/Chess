@@ -3,7 +3,7 @@ package chess;
 import board.Board;
 import board.Pieces;
 
-public class ChessPiece extends Pieces {
+public abstract class ChessPiece extends Pieces {
 	private Color color;
 
 	public ChessPiece(Board board, Color color) {
