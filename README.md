@@ -12,7 +12,7 @@ git clone https://github.com/Lucas1Rodrigues/Chess-Console
 ```bash
 cd Chess/chessSystem/bin/  
 java application.Program
-...
+```
 
 
 
