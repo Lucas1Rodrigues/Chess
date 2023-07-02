@@ -2,7 +2,9 @@
 
 Is a chess simulator make in java, that have special moves like:
 <b>En passant</b>
+
 <b>Castling</b>
+
 <b>Promotion</b>
 ...
 ## Installation
